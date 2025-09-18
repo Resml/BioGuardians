@@ -78,7 +78,15 @@ Our application is structured as an end-to-end pipeline, from image acquisition 
 
 4. **View Results:** The user receives a comprehensive report on the dashboard, including the annotated image and quantitative data visualizations.
 
-## 👥 Team
+## � Analysis in Action: From Image to Insight
+
+Here’s a glimpse of how out project will transform a raw image into a detailed analysis report. The system will process the input and generate a segmentation map, color-coding different types of biofouling for easy identification. This automated process provides objective, repeatable, and highly detailed data.
+
+![Segmentation Analysis](./asset/analysis.jpg)
+
+The segmentation map above illustrates how the model will precisely identify and outline each type of organism. This output will then be used to calculate coverage density and other critical metrics, empowering naval staff to make informed maintenance decisions.
+
+## �👥 Team
 
 - **Riya Kotalwar** - Team Lead Image Model Training.
 
