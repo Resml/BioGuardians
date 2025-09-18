@@ -1,10 +1,10 @@
-# Foul-Seg: Automated Marine Biofouling Analysis
+# Automated Marine Biofouling Analysis
 
 **An intelligent image-based solution to automatically classify fouling species and estimate their density on submerged naval assets.**
 
 ## 🎥 Live Demo
 
-**[Access the Live Application Here]** (_<-- Add your deployment link here_)
+**https://preview--fouling-spotter-ai.lovable.app/**
 
 ## 🌊 The Problem: Marine Biofouling
 
@@ -12,9 +12,9 @@ Marine biofouling is the undesirable accumulation of organisms on submerged surf
 
 _Figure: Example of heavy macrofouling on a test panel._
 
-## 💡 Our Solution: Foul-Seg
+## 💡 Our Solution:
 
-**Foul-Seg** is an end-to-end deep learning framework that automates the analysis of biofouling. By leveraging **semantic segmentation**, our system moves beyond simple detection to provide a detailed, pixel-level map of fouled surfaces. This allows for precise species classification and accurate density measurement, delivering actionable intelligence for maintenance and operational planning.
+**BioFouling Detection** is an end-to-end deep learning framework that automates the analysis of biofouling. By leveraging **semantic segmentation**, our system moves beyond simple detection to provide a detailed, pixel-level map of fouled surfaces. This allows for precise species classification and accurate density measurement, delivering actionable intelligence for maintenance and operational planning.
 
 ## 📝 Project Presentation
 
@@ -66,9 +66,7 @@ Our application is structured as an end-to-end pipeline, from image acquisition 
 
 - **Backend:** Python (Flask/FastAPI) for the API and processing server
 
-- **Frontend:** A modern web framework (e.g., React, Vue) for the user dashboard
-
-- **Database:** SQL or NoSQL database for storing analysis results and historical data.
+- **Frontend:** A modern web framework (e.g., React) for the user dashboard
 
 ## 🚀 How It Works
 
@@ -82,8 +80,8 @@ Our application is structured as an end-to-end pipeline, from image acquisition 
 
 ## 👥 Team
 
-- **[Your Name]** - [Your Role]
+- **Riya Kotalwar** - Team Lead Image Model Training.
 
-- **[Team Member Name]** - [Their Role]
+- **Shreyas Jadhav** - Full Stack and Image Segmentation, Second in Command
 
-- **[Team Member Name]** - [Their Role]
+- **Pranav KUnjir** - Full Stack and AI model Training
