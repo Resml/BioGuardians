@@ -16,6 +16,14 @@ _Figure: Example of heavy macrofouling on a test panel._
 
 **BioFouling Detection** is an end-to-end deep learning framework that automates the analysis of biofouling. By leveraging **semantic segmentation**, our system moves beyond simple detection to provide a detailed, pixel-level map of fouled surfaces. This allows for precise species classification and accurate density measurement, delivering actionable intelligence for maintenance and operational planning.
 
+## � Analysis in Action: From Image to Insight
+
+Here’s a glimpse of how out project will transform a raw image into a detailed analysis report. The system will process the input and generate a segmentation map, color-coding different types of biofouling for easy identification. This automated process provides objective, repeatable, and highly detailed data.
+
+![Segmentation Analysis](./asset/analysis.jpg)
+
+The segmentation map above illustrates how the model will precisely identify and outline each type of organism. This output will then be used to calculate coverage density and other critical metrics, empowering naval staff to make informed maintenance decisions.
+
 ## 📝 Project Presentation
 
 Here is the complete presentation outlining our vision, technical approach, and potential impact.
@@ -77,14 +85,6 @@ Our application is structured as an end-to-end pipeline, from image acquisition 
 3. **Generate Report:** The model outputs a detailed segmentation map. The server calculates the density of each species and other key metrics.
 
 4. **View Results:** The user receives a comprehensive report on the dashboard, including the annotated image and quantitative data visualizations.
-
-## � Analysis in Action: From Image to Insight
-
-Here’s a glimpse of how out project will transform a raw image into a detailed analysis report. The system will process the input and generate a segmentation map, color-coding different types of biofouling for easy identification. This automated process provides objective, repeatable, and highly detailed data.
-
-![Segmentation Analysis](./asset/analysis.jpg)
-
-The segmentation map above illustrates how the model will precisely identify and outline each type of organism. This output will then be used to calculate coverage density and other critical metrics, empowering naval staff to make informed maintenance decisions.
 
 ## �👥 Team
 
