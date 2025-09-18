@@ -26,13 +26,23 @@ Here is the complete presentation outlining our vision, technical approach, and 
 
 ### **Slide 2: Idea Title**
 
+![Slide 2 Image](./asset/2.png)
+
 ### **Slide 3: Proposed Solution**
+
+![Slide 3 Image](./asset/3.png)
 
 ### **Slide 4: Technical Approach**
 
+![Slide 4 Image](./asset/4.png)
+
 ### **Slide 5: Feasibility and Viability**
 
+![Slide 5 Image](./asset/5.png)
+
 ### **Slide 6: Impact and Benefits**
+
+![Slide 6 Image](./asset/6.png)
 
 ## ⚙️ Technical Architecture
 
